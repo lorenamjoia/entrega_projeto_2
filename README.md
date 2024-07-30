@@ -1,2 +1,2 @@
-# Entrega do Projeto 2
-Analisando dados de um Dashboard de Vendas no Power BI
+# Analisando dados de um Dashboard de Vendas no Power BI
+Entrega P2 - Analisando dados de um Dashboard de Vendas no Power BI
